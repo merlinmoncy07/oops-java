@@ -1,0 +1,8 @@
+public class Integers{
+	public static void main(String args[]){
+		int x = 100;
+		int y = 100;
+		 int sum = x+y;
+		   System.out.println(sum);
+	}   
+}	
